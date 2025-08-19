@@ -68,4 +68,4 @@ Buka di browser: [http://localhost:5173](http://localhost:5173)
 - Kode ini hanya contoh, **lakukan audit** sebelum ke mainnet.
 
 ## Lisensi
-MIT License By Mido
+By Mido
