@@ -10,8 +10,6 @@ Proyek ini adalah template **dApp Mint NFT** berbasis **Solidity (ERC-721 + Open
 
 ## Struktur Proyek
 ```
-dapp-mint-nft/
-dapp-mint-nft/
 ├── README.md                # Dokumentasi proyek
 ├── contracts/               # Bagian smart contract
 │   ├── contracts/           # Folder utama Solidity
