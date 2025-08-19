@@ -1,0 +1,1 @@
+export const SEPOLIA = { chainId: 11155111 };
